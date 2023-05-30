@@ -1,4 +1,4 @@
-Hi! I'm a QA Engineer working in Ufa, Russia.
+#### Hi! I'm a QA Engineer
 
 
 
